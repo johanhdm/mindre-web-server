@@ -1,0 +1,23 @@
+{
+  "name": "mindre-web-server",
+  "version": "0.0.0",
+  "description": "Simple web server with super simple URL routing",
+  "main": "server.js",
+  "dependencies" : {
+    "connect" : "~> 2.8.4",
+    "connect-route" : "~> 0.1.3"
+  },
+  "repository": "",
+  "keywords": [
+    "web",
+    "server",
+    "MAMP",
+    "static",
+    "files",
+    "routing",
+    "REST"
+  ],
+  "author": "Johan Halvarsson de Maar <johanhdm@gmail.com>",
+  "license": "BSD"
+
+}
